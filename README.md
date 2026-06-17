@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer+Scientist&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
 # Hi there, I'm Denzel Murimi 👋
@@ -41,7 +41,7 @@ I am a full-stack developer and Computer Science student passionate about the in
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
+- 💼 **Professional Network:** (https://www.linkedin.com/in/denzel-murimi-934563272/)
 - 📧 **Direct Contact:** denzel.kahuthia@strathmore.edu
 
 <p align="center">
